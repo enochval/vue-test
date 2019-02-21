@@ -43,8 +43,8 @@ export default {
   }
 
   .v-badge__badge {
-    height: 8px;
-    width: 8px;
+    height: 8px !important;
+    width: 8px !important;
   }
 
   .remove-line-height {
